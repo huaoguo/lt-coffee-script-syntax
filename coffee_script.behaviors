@@ -1,0 +1,3 @@
+[
+ [:editor :lt.objs.plugins/load-js ["coffee_script_compiled.js", "js/simple.js", "js/coffeescript.js"]]
+ ]
